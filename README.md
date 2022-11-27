@@ -1,5 +1,11 @@
 # lulzurl
 
+## Installation
+
+```
+pip install lulzurl
+```
+
 ## easyurl
 
 Contains class EasyUrl which allows you to do somthing like this:
