@@ -8,9 +8,9 @@ pip install lulzurl
 
 ## easyurl
 
-Contains class EasyUrl which allows you to do somthing like this:
+Contains class EasyUrl which allows you to do something like this:
 
-```
+```python
 e = EasyUrl("https://exampleurl.com", lambda url: url)
 print(e()) # outputs "https://exampleurl.com"
 print(e.main.other.coolthing()) # outputs "https://exampleurl.com/main/other/coolthing"
