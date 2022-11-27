@@ -1,3 +1,4 @@
 tests/__pycache__/*
 src/lulzurl/__pycache__/*
 venv/*
+dist/*
